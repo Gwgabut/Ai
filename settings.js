@@ -68,7 +68,7 @@ global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'templateImage' //
 //type menu for downloadmenu, animemenu, etc
-global.typemenu2 = 'image' //
+global.typemenu2 = 'list' //
 global.multiplier = 69
 global.limitawal = {
    premium: "Infinity", //unlimited
