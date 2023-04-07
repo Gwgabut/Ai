@@ -8,7 +8,7 @@ const {
 
 //sebagian panel gk support opena ai jadi mungkin apikey lu bakalan di blokir
 //klo misalkan pada saat memakai fitur ai, terus dapat email dari open si, itu berarti website tempat lu install bot gk support ai
-global.OpenAIKey = "YOUR_KEY" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -24,7 +24,7 @@ global.sewabotnya = `
 edit sewabot di file settings.js line 24
 `
 // setting 
-global.firtsChat = true //send firts message to new user
+global.firtsChat = false //send firts message to new user
 global.autoread = true // auto read message
 global.antidelete = false // anti delete
 global.antiviewonce = true // anti view once
@@ -46,12 +46,12 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
+global.botname = "HanzBot" //namabot kalian
 global.ownername = "ᴹᴿ᭄ Hanzz ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.myweb = "https://wa.me/6283833342559" //bebas asal jan hapus
+global.youtube = "https://wa.me/6283833342559" //bebas asal jan hapus
+global.myweb2 = "https://wa.me/6283833342559" //bebas
+global.email = "Facebook@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6283833342559'] //premium user
@@ -72,7 +72,7 @@ global.typemenu2 = 'image' //
 global.multiplier = 69
 global.limitawal = {
    premium: "Infinity", //unlimited
-   free: 100
+   free: 500
 }
 global.buttonDefault = [{
    urlButton: {
@@ -285,7 +285,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
+   sukses: 'Done Cuy',
    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
